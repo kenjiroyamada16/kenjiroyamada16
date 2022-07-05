@@ -1,5 +1,6 @@
-- 👋 Olá, sou Nicolas Yamada, atualmente estudante do IF, ensino médio, técnico em informática integrado.
-- 👀 Interessado em trabalhos em empresas de Três Lagoas ou trabalho remoto.
-- 🌱 Aprendendo Python, Java, conhecimentos em Kotlin e já seguindo com projetos com programação Web (HTML5, CSS3, JS e ReactJS).
-- 📫 Contato: *Email: nicolasyamada16@gmail.com  -- *Instagram: nickkkila
-
+## Olá, sou Nicolas Yamada.
+<div align="center">
+  <a href="https://github.com/nicko00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicko00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicko00&layout=compact&langs_count=7&theme=dracula"/>
+</div>
