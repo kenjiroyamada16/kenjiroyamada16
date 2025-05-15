@@ -1,6 +1,6 @@
 ## Olá, sou Nicolas Yamada, boas vindas ao meu perfil!
 
-- Sou um desenvolvedor Mobile e Fullstack com 3 anos de experiência, com ênfase no desenvolvimento nativo de aplicações Android com Kotlin e multiplataforma com Flutter. Contribuí no desenvolvimento de aplicativos renomados como Rock in Rio, Lollapalooza Brasil, Rock in Rio Lisboa e The Town que, juntos, superaram 1 milhão de downloads.
+- Sou um desenvolvedor Mobile e Fullstack com 3 anos de experiência, com ênfase no desenvolvimento de aplicações multiplataforma com Flutter e aplicações nativas para Android utilizando Kotlin. Contribuí no desenvolvimento de aplicativos renomados como Rock in Rio, Lollapalooza Brasil, Rock in Rio Lisboa e The Town que, juntos, superaram 1 milhão de downloads.
 
 ---
 
