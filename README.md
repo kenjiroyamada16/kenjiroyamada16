@@ -1,43 +1,54 @@
-## Olá, sou Nicolas Yamada, boas vindas ao meu perfil!
+## Olá! 👋 Sou o Nicolas Yamada
 
-- Sou um desenvolvedor Mobile e Fullstack com 3 anos de experiência, com ênfase no desenvolvimento de aplicações multiplataforma com Flutter e aplicações nativas para Android utilizando Kotlin. Contribuí no desenvolvimento de aplicativos renomados como Rock in Rio, Lollapalooza Brasil, Rock in Rio Lisboa e The Town que, juntos, superaram 1 milhão de downloads.
+**Desenvolvedor Mobile & Fullstack | Flutter, Android Nativo & Web**
+
+Transformo ideias em experiências digitais fluidas, escaláveis e de alto impacto. Com mais de 3 anos de experiência na área de tecnologia, atuo desde a arquitetura de aplicativos móveis complexos até a construção de APIs e infraestrutura na nuvem.
+
+### Destaques da Carreira
+
+- **Impacto em Massa:** Fui um dos desenvolvedores core dos aplicativos oficiais de grandes festivais globais — **Rock in Rio (Brasil e Lisboa), Lollapalooza Brasil e The Town**. Juntos, esses aplicativos superaram a marca de **1 milhão de downloads**.
+- **Engenharia de Software:** Forte atuação com **Clean Architecture, DDD e MVVM/MVVM-C**. Experiência avançada em integração de código nativo (Kotlin/Swift) via *Method Channels* no Flutter, cache local (Hive, SQFlite, Room), e processamento assíncrono (Isolates, Coroutines).
+- **Visão Fullstack:** Além do ecossistema mobile (Flutter e Android Nativo com Jetpack Compose), construo aplicações web modernas com **Vue.js/TypeScript**, APIs com **Ruby on Rails** e configuro automações de **CI/CD** (Bitrise, GitHub Actions, GitLab CI) e deploys na **AWS**.
+- **Produtos de Alta Relevância:** Contribuição ativa no desenvolvimento de plataformas renomadas como o **Gran Cursos Questões**, **Encontre no Sesc** e **ECX Pay**.
 
 ---
 
-<div align="center">
-  <a href="https://github.com/kenjiroyamada16">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjiroyamada16&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-  
-<div style="display: flex; justify-content: center;" align="center">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-</div>
+### Tecnologias e Ferramentas
 
-##
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;" align="center">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="Swift"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" title="Ruby on Rails"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
+</div>
   
+---
+
+### Vamos nos conectar?
+
 <div align="center">
   <a href="https://www.linkedin.com/in/nicolas-yamada-643444207/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://nicyamada.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-212121?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
   </a>
   <a href="mailto:nicolasyamada16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/nicolasyamada_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
----
+<br>
 
-<div>
-  Dê uma olhada no meu <a href="curriculo_nicolas.pdf">currículo</a> também!
+<div align="center">
+  📄 <strong><a href="curriculo_nicolas.pdf" target="_blank">Confira meu Currículo Completo</a></strong>
 </div>
