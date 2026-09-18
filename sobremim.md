@@ -1,4 +1,0 @@
-- 👋 Oi, sou Nicolas Yamada e atualmente curso o ensino médio com técnico em informática integrado do IFMS, 6° semestre.
-- 👀 Interessado em trabalhos e/ou serviços em Três Lagoas, ou emprego/serviço que possa ser realizado remotamente. 
-- 🌱 Conhecimento intermediário com programação Web (HTML5, CSS3 e JS), básico em Python, básico em Java.
-- 📫 Contatos: *Email: nickminevilil61@gmail.com // *Instagram: @nickkkila
