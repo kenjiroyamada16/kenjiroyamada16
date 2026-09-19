@@ -1,6 +1,6 @@
 ## Olá! 👋 Sou o Nicolas Yamada
 
-**Desenvolvedor Mobile & Fullstack | Flutter, Android Nativo & Web**
+**Desenvolvedor Mobile & Fullstack**
 
 Transformo ideias em experiências digitais fluidas, escaláveis e de alto impacto. Com mais de 3 anos de experiência na área de tecnologia, atuo desde a arquitetura de aplicativos móveis complexos até a construção de APIs e infraestrutura na nuvem.
 
@@ -8,7 +8,7 @@ Transformo ideias em experiências digitais fluidas, escaláveis e de alto impac
 
 - **Impacto em Massa:** Fui um dos desenvolvedores core dos aplicativos oficiais de grandes festivais globais — **Rock in Rio (Brasil e Lisboa), Lollapalooza Brasil e The Town**. Juntos, esses aplicativos superaram a marca de **1 milhão de downloads**.
 - **Engenharia de Software:** Forte atuação com **Clean Architecture, DDD e MVVM/MVVM-C**. Experiência avançada em integração de código nativo (Kotlin/Swift) via *Method Channels* no Flutter, cache local (Hive, SQFlite, Room), e processamento assíncrono (Isolates, Coroutines).
-- **Visão Fullstack:** Além do ecossistema mobile (Flutter e Android Nativo com Jetpack Compose), construo aplicações web modernas com **Vue.js/TypeScript**, APIs com **Ruby on Rails** e configuro automações de **CI/CD** (Bitrise, GitHub Actions, GitLab CI) e deploys na **AWS**.
+- **Visão Fullstack:** Além do ecossistema mobile (Flutter, Android e iOS), construo aplicações web modernas com **Vue.js/TypeScript**, APIs com **Node.js, Ruby on Rails e PHP** e configuro automações de **CI/CD** (Bitrise, GitHub Actions, GitLab CI) e deploys na **AWS**.
 - **Produtos de Alta Relevância:** Contribuição ativa no desenvolvimento de plataformas renomadas como o **Gran Cursos Questões**, **Encontre no Sesc** e **ECX Pay**.
 
 ---
